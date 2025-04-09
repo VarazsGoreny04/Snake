@@ -7,5 +7,7 @@ internal class Program
         View view = new View();
 
         view.Run();
+
+		Console.WriteLine("AMLA");
     }
 }
